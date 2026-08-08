@@ -12,3 +12,6 @@ Este repositório contém uma implementação básica de uma arquitetura cliente
 1.  Primeiro, execute o servidor:
     ```bash
     python server.py
+2. Em seguida, em outro terminal, execute o cliente:
+   ```bash
+    python client.py
